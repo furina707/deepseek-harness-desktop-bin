@@ -3,7 +3,7 @@ pkgname=deepseek-harness-desktop-bin
 _pkgname=deepseek-harness-desktop
 pkgver=0.2.2.rc.1
 _realver=0.2.2-rc.1
-pkgrel=2
+pkgrel=3
 pkgdesc="Electron desktop application for DeepSeek Harness"
 arch=('x86_64')
 url="https://github.com/furina707/deepseek-harness-desktop-bin"
@@ -50,7 +50,7 @@ source_x86_64=(
 sha256sums_x86_64=(
   'b4559e3ed1ee728b49dfcfef2199b483b8c06506506036e71bf21d9203351d7b'
   '982c2859568d83d2576110a527c545f04641f4008bdb2cfeb6758f333c0fb07a'
-  '8dcbde32c932cc3aa1f711d3d14dfb7a1915202c6a5d9ce3541fece5832f1ba6'
+  '3c7a85d04ebecacedc959af60e4fd237b4ba0a9528bc59b26ea06c008d6e213d'
 )
 
 package() {

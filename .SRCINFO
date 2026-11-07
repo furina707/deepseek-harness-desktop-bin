@@ -1,7 +1,7 @@
 pkgbase = deepseek-harness-desktop-bin
 	pkgdesc = Electron desktop application for DeepSeek Harness
 	pkgver = 0.2.2.rc.1
-	pkgrel = 2
+	pkgrel = 3
 	url = https://github.com/furina707/deepseek-harness-desktop-bin
 	arch = x86_64
 	license = MIT
@@ -39,6 +39,6 @@ pkgbase = deepseek-harness-desktop-bin
 	source_x86_64 = deepseek-harness-0.2.2-rc.1-linux-x64.tar.zst::https://github.com/furina707/deepseek-harness-desktop-bin/releases/download/v0.2.2-rc.1/deepseek-harness-0.2.2-rc.1-linux-x64.tar.zst
 	sha256sums_x86_64 = b4559e3ed1ee728b49dfcfef2199b483b8c06506506036e71bf21d9203351d7b
 	sha256sums_x86_64 = 982c2859568d83d2576110a527c545f04641f4008bdb2cfeb6758f333c0fb07a
-	sha256sums_x86_64 = 8dcbde32c932cc3aa1f711d3d14dfb7a1915202c6a5d9ce3541fece5832f1ba6
+	sha256sums_x86_64 = 3c7a85d04ebecacedc959af60e4fd237b4ba0a9528bc59b26ea06c008d6e213d
 
 pkgname = deepseek-harness-desktop-bin
