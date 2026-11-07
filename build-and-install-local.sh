@@ -2,7 +2,7 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-ROOT_DIR="$(cd "${SCRIPT_DIR}/../.." && pwd)"
+ROOT_DIR="$(cd "${SCRIPT_DIR}/../deepseek-harness" && pwd)"
 
 echo "==> 1. 正在构建 DeepSeek Harness Linux 桌面包产物..."
 cd "${ROOT_DIR}"
