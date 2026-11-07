@@ -1,0 +1,7 @@
+# Arch Linux package build artifacts
+src/
+pkg/
+*.pkg.tar.zst
+*.pkg.tar.xz
+*.AppImage
+*.log
